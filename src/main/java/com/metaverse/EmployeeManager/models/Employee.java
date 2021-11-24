@@ -1,4 +1,4 @@
-package com.metaverse.EmployeeManager.model;
+package com.metaverse.EmployeeManager.models;
 
 import javax.persistence.*;
 import java.io.Serializable;
@@ -98,5 +98,4 @@ public class Employee implements Serializable {
                 ", imageUrl='" + imageUrl + '\'' +
                 '}';
     }
-
 }
