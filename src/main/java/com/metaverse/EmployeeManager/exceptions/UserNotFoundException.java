@@ -1,4 +1,4 @@
-package com.metaverse.EmployeeManager.exception;
+package com.metaverse.EmployeeManager.exceptions;
 
 public class UserNotFoundException extends RuntimeException {
     public UserNotFoundException(String message) {
